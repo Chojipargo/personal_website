@@ -3,6 +3,9 @@
   "description": "Joseph Uzoigwe — Personal Portfolio Website",
   "version": "1.0.0",
   "author": "Joseph Uzoigwe",
+  "engines": {
+    "node": "18.x"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Chojipargo/personal_website"
