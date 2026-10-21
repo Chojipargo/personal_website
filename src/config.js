@@ -21,10 +21,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
-    },
   ],
 
   navLinks: [
